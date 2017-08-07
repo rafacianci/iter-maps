@@ -9,7 +9,7 @@
   },
   "globals": {
     "document": true,
-    "window": true
+    "navigator": true
   },
   "rules": {
     "react/jsx-filename-extension": 0,
